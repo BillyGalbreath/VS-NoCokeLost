@@ -1,0 +1,15 @@
+{
+  "type": "code",
+  "name": "NoCokeLost",
+  "modid": "nocokelost",
+  "version": "1.0.0",
+  "description": "Coke furnaces turn all coal into coke",
+  "website": "https://github.com/BillyGalbreath/VS-NoCokeLost",
+  "authors": [ "BillyGalbreath" ],
+  "side": "Universal",
+  "requiredOnClient": false,
+  "requiredOnServer": true,
+  "dependencies": {
+    "game": "1.18.8"
+  }
+}
